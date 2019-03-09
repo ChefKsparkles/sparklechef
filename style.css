@@ -1,0 +1,31 @@
+body { background-color:#cbf1f5;
+ font-family:'Ubuntu', sans-serif; 
+text-align: center;  }
+
+h1 {
+	font-family:'Ubuntu', 
+	sans-serif; 
+	color:#f4dada;
+	}	
+h2 {font-family:'Ubuntu', sans-serif; color:#cbbcf6; }
+p {font-family:'Ubuntu', sans-serif; color:#a06ee1;}
+
+#banner{
+	text-align: center;
+background-image: url(https://picsum.photos/5774/3818?image=490);
+background-size: cover;
+padding: 110px}
+
+#banner h1 {color:#f4dada}
+
+.card 
+{margin: 20px 0}
+
+
+
+
+#footer {background-color: lightgrey; padding: 20px 10px; font-weight: strong;}
+
+
+
+/{}/
